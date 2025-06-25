@@ -1,0 +1,215 @@
+.ShipDetail_breadcrumbsWrapper__FLcwF {
+    border-bottom: 1px solid var(--gray-200, #eaecf0)
+}
+
+.ShipDetail_breadcrumbs__aqQ55 {
+    padding: 16px 32px
+}
+
+.ShipDetail_carousel__nUuEe {
+    padding: 0 24px
+}
+
+.ShipDetail_navigation__XqULZ {
+    display: flex;
+    gap: 32px;
+    padding: 80px 32px
+}
+
+.ShipDetail_navigation__XqULZ .ShipDetail_mapLink__PJYog {
+    color: var(--primary-base, #77dada);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    -webkit-text-decoration-line: underline;
+    text-decoration-line: underline
+}
+
+.ShipDetail_ship-detail__tg7lk {
+    padding: 80px 32px
+}
+
+.ShipDetail_ship-detail__tg7lk .ShipDetail_tabs__GBWfH {
+    position: sticky;
+    top: 96px;
+    z-index: 10
+}
+
+.ShipDetail_features__yRuTS .ShipDetail_overview__yB_ss {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 32px;
+    grid-row-gap: 24px
+}
+
+.ShipDetail_features__yRuTS .ShipDetail_overview__yB_ss path {
+    stroke: var(--primary-base)
+}
+
+.ShipDetail_room-types___lF5j {
+    border-radius: 24px;
+    background-color: #f2f4f7;
+    padding: 32px
+}
+
+.ShipDetail_room-types___lF5j .ShipDetail_price-label__DYiSZ {
+    color: var(--gray-700)
+}
+
+.ShipDetail_room-types___lF5j .ShipDetail_price__4ktfF {
+    color: var(--primary-dark, #0e4f4f)
+}
+
+.ShipDetail_side-bar__zCvY4 {
+    min-width: 384px;
+    max-width: 25vw
+}
+
+.ShipDetail_side-bar-mb__SMRg4 {
+    display: none;
+    min-width: 0;
+    width: 100%;
+    padding: 24px
+}
+
+.ShipDetail_ship-info__header__W2dvw {
+    padding: 20px 24px;
+    border-bottom: 1px solid var(--gray-200, #eaecf0)
+}
+
+.ShipDetail_ship-info__content__41xn_ {
+    padding: 20px 24px
+}
+
+.ShipDetail_ship-info__content__41xn_ svg {
+    width: 20px;
+    min-width: 20px;
+    height: 20px
+}
+
+.ShipDetail_ship-info__content__label__DJBQT {
+    width: 120px;
+    min-width: 120px;
+    color: var(--gray-600, #475467)
+}
+
+.ShipDetail_ship-info__content__41xn_ label {
+    color: var(--gray-900)
+}
+
+.ShipDetail_rating-list__ZwlzP {
+    padding-bottom: 40px;
+    border-bottom: 1px solid var(--gray-200, #eaecf0)
+}
+
+.ShipDetail_search-input__18EG3 {
+    width: 200px;
+    height: 40px
+}
+
+.ShipDetail_search-input__18EG3>label {
+    padding: 5px 16px;
+    height: 100%
+}
+
+.ShipDetail_blog-img__kzd6O {
+    border-radius: 24px;
+    overflow: hidden
+}
+
+.ShipDetail_booking-detail-modal__RdgJk {
+    width: 800px;
+    display: flex;
+    padding: 24px;
+    flex-direction: column;
+    gap: 24px;
+    flex: 1 0
+}
+
+.ShipDetail_divider__nBhDp {
+    border-bottom: 1px solid var(--gray-200, #eaecf0)
+}
+
+.ShipDetail_group-input__u7Gou {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 24px;
+    gap: 24px;
+    justify-content: flex-start
+}
+
+.ShipDetail_popular-ships__ppm44 {
+    background-color: #f2f4f7
+}
+
+.ShipDetail_output__lstAp {
+    font-size: 16px;
+    line-height: 24px
+}
+
+.ShipDetail_output__lstAp img {
+    max-height: 100% !important
+}
+
+@media(max-width:1200px) {
+    .ShipDetail_booking-detail-modal__RdgJk {
+        width: 100%
+    }
+    .ShipDetail_booking-detail-modal__footer__kNWG7 {
+        flex-direction: column;
+        gap: 24px
+    }
+    .ShipDetail_booking-detail-modal__RdgJk .ShipDetail_actions__tALJG {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr)
+    }
+    .ShipDetail_booking-detail-modal__RdgJk .ShipDetail_actions__tALJG>button {
+        width: 100%
+    }
+    .ShipDetail_side-bar__zCvY4 {
+        display: none
+    }
+    .ShipDetail_side-bar-mb__SMRg4 {
+        display: block
+    }
+    .ShipDetail_navigation__XqULZ {
+        flex-direction: column;
+        padding: 24px
+    }
+    .ShipDetail_navigation__XqULZ>h4 {
+        font-size: 24px
+    }
+    .ShipDetail_navigation__XqULZ .ShipDetail_badge-list__XVcRs {
+        flex-direction: column
+    }
+    .ShipDetail_ship-detail__tg7lk {
+        padding: 24px;
+        gap: 24px
+    }
+    .ShipDetail_features__yRuTS .ShipDetail_overview__yB_ss {
+        grid-template-columns: auto
+    }
+    .ShipDetail_room-types___lF5j {
+        padding: 16px;
+        gap: 16px
+    }
+    .ShipDetail_rooms-footer__6FXQl {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px
+    }
+    .ShipDetail_review-header__QtwKF {
+        flex-direction: column
+    }
+    .ShipDetail_review-header__QtwKF .ShipDetail_group-btn__y5IAN {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr)
+    }
+    .ShipDetail_review-header__QtwKF .ShipDetail_group-btn__y5IAN .ShipDetail_search-input__18EG3,
+    .ShipDetail_review-header__QtwKF .ShipDetail_group-btn__y5IAN button {
+        width: 100%
+    }
+    .ShipDetail_group-input__u7Gou {
+        grid-template-columns: 100%
+    }
+}

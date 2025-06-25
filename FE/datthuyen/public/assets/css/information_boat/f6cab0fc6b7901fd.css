@@ -1,0 +1,25 @@
+.BlogPage_blog-page__rgwYh {
+    padding: 80px 32px
+}
+
+.BlogPage_blog-list__CZUlB {
+    display: flex;
+    gap: 32px;
+    flex-wrap: wrap
+}
+
+@media (max-width:1024px) {
+    .BlogPage_blog-page__rgwYh {
+        padding: 24px;
+        gap: 24px
+    }
+    .BlogPage_blog-header__GqIRa {
+        flex-direction: column
+    }
+    .BlogPage_filter-btn__Kp5z7 {
+        width: 100%
+    }
+    .BlogPage_blog-list__CZUlB {
+        gap: 16px
+    }
+}
